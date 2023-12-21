@@ -1,4 +1,4 @@
-### Olá! Eu sou _*Wellyton Ribeiro*_ 😏
+### Olá! Eu sou _*Wellyton Ribeiro*_ Dev Front-end e Designer Gráfico 😏
 
 ##
 
