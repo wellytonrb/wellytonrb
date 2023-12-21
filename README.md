@@ -2,7 +2,7 @@
 
 ##
 
-Sempre fui movido pela curiosidade de compreender o vasto campo da tecnologia e tenho um forte desejo de aprendizado contínuo, aplicando minhas ideias naquilo que verdadeiramente me apaixona.
+<h6>Sempre fui movido pela curiosidade de compreender o vasto campo da tecnologia e tenho um forte desejo de aprendizado contínuo, aplicando minhas ideias naquilo que verdadeiramente me apaixona. </h6>
 
 ![wellytonrb Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellytonrb&layout=compact&theme=dark#gh-dark-mode-only)
 
@@ -19,12 +19,6 @@ Sempre fui movido pela curiosidade de compreender o vasto campo da tecnologia e 
 
 ##
 
-<div align="left" style="display: inline-block">
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellytonrb/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellytonrb/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/wellyton03)
-
-
-
-</div>
