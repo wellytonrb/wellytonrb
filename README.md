@@ -2,7 +2,7 @@
 
 ##
 
-<h6>Sempre fui movido pela curiosidade de compreender o vasto campo da tecnologia e tenho um forte desejo de aprendizado contínuo, aplicando minhas ideias naquilo que verdadeiramente me apaixona. </h6>
+<h5>Sempre fui movido pela curiosidade de compreender o vasto campo da tecnologia e tenho um forte desejo de aprendizado contínuo, aplicando minhas ideias naquilo que verdadeiramente me apaixona. </h5>
 
 ![wellytonrb Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellytonrb&layout=compact&theme=dark#gh-dark-mode-only)
 
